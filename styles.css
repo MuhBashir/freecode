@@ -1,0 +1,68 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+#main {
+  background-color: powderblue;
+  
+  
+
+}
+#title {
+  
+  background-color: aqua;
+  padding: center; 
+  padding-top: 18px;
+  padding-bottom: 18px;
+  font: 50px;
+  text-align: center;
+}
+h2 {
+  margin: 30px;
+  text-align: center;
+  background-color: aqua;
+  padding: 12px 50px 12px 50px;
+}
+#img-div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#image {
+  display: block;
+  width: 100%;
+  max-width: 1024px;
+  height: auto;
+
+}
+#img-caption {
+  text-align: center;
+  
+}
+h3 {
+  text-align: center;
+  font: bold 20px Tahoma;
+}
+#tribute-info {
+  font-size: 20px;
+  width: 100%;
+  margin: 20px 0px 20x 0px;
+  border: 2px solid red;
+  background-color: azure;
+  color: brown;
+
+}
+
+#tribute-link {
+  text-align: center;
+
+}
+
+
+
+
+  
+  
+
+  
